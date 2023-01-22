@@ -1,0 +1,1 @@
+# Algorithmic share trade exercice
